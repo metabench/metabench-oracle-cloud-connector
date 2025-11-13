@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-13T00:46:58.729Z",
+    "totalSections": 10
+  },
+  "sections": [
+    {
+      "heading": "Change Plan",
+      "level": 1,
+      "slug": "change-plan",
+      "hash": "04At73o/SbE=",
+      "startLine": 0,
+      "endLine": 56,
+      "lineCount": 56
+    },
+    {
+      "heading": "Goal",
+      "level": 2,
+      "slug": "goal",
+      "hash": "7mWHtKCnYPY=",
+      "startLine": 2,
+      "endLine": 5,
+      "lineCount": 3
+    },
+    {
+      "heading": "Current Behaviour",
+      "level": 2,
+      "slug": "current-behaviour",
+      "hash": "00aTRhKKgmA=",
+      "startLine": 5,
+      "endLine": 10,
+      "lineCount": 5
+    },
+    {
+      "heading": "Proposed Changes",
+      "level": 2,
+      "slug": "proposed-changes",
+      "hash": "r1u55BUJJEg=",
+      "startLine": 10,
+      "endLine": 37,
+      "lineCount": 27
+    },
+    {
+      "heading": "Current Focus (Phase 1 Tasks)",
+      "level": 3,
+      "slug": "current-focus-phase-1-tasks",
+      "hash": "2OoqIhbatvo=",
+      "startLine": 24,
+      "endLine": 37,
+      "lineCount": 13
+    },
+    {
+      "heading": "Risks & Unknowns",
+      "level": 2,
+      "slug": "risks-unknowns",
+      "hash": "pPhrcSCKZSQ=",
+      "startLine": 37,
+      "endLine": 43,
+      "lineCount": 6
+    },
+    {
+      "heading": "Integration Points",
+      "level": 2,
+      "slug": "integration-points",
+      "hash": "e1uCSjFwnww=",
+      "startLine": 43,
+      "endLine": 46,
+      "lineCount": 3
+    },
+    {
+      "heading": "Docs Impact",
+      "level": 2,
+      "slug": "docs-impact",
+      "hash": "5zTCfdGhuek=",
+      "startLine": 46,
+      "endLine": 49,
+      "lineCount": 3
+    },
+    {
+      "heading": "Focused Test Plan",
+      "level": 2,
+      "slug": "focused-test-plan",
+      "hash": "hL2v0y/sL/c=",
+      "startLine": 49,
+      "endLine": 53,
+      "lineCount": 4
+    },
+    {
+      "heading": "Rollback Plan",
+      "level": 2,
+      "slug": "rollback-plan",
+      "hash": "lspVsViUJQI=",
+      "startLine": 53,
+      "endLine": 56,
+      "lineCount": 3
+    }
+  ]
+}
